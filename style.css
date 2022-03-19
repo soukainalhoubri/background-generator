@@ -1,0 +1,17 @@
+body{
+    margin: 0 auto;
+    height: 100vh;
+    width: 100vh;
+    background:linear-gradient(15deg, red,yellow);
+    background-repeat: no-repeat;
+    align-items: center;
+    padding: 50px 150px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    overflow: hidden;
+}
+
+h1{
+    
+    font-size: 100px;
+}
